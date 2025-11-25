@@ -1,0 +1,130 @@
+[
+  {
+    "id": "P001",
+    "title": "GenZ Tee 1",
+    "brand": "GenZ",
+    "price": 1399,
+    "image": "/img/products/f1.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P002",
+    "title": "GenZ Tee 2",
+    "brand": "GenZ",
+    "price": 1499,
+    "image": "/img/products/f2.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P003",
+    "title": "GenZ Tee 3",
+    "brand": "GenZ",
+    "price": 1599,
+    "image": "/img/products/f3.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P004",
+    "title": "GenZ Tee 4",
+    "brand": "GenZ",
+    "price": 1699,
+    "image": "/img/products/f4.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P005",
+    "title": "GenZ Tee 5",
+    "brand": "GenZ",
+    "price": 1799,
+    "image": "/img/products/f5.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P006",
+    "title": "GenZ Tee 6",
+    "brand": "GenZ",
+    "price": 1899,
+    "image": "/img/products/f6.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P007",
+    "title": "GenZ Tee 7",
+    "brand": "GenZ",
+    "price": 1999,
+    "image": "/img/products/f7.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P008",
+    "title": "GenZ Tee 8",
+    "brand": "GenZ",
+    "price": 2099,
+    "image": "/img/products/f8.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P009",
+    "title": "GenZ Tee 9",
+    "brand": "GenZ",
+    "price": 2199,
+    "image": "/img/products/n1.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P010",
+    "title": "GenZ Tee 10",
+    "brand": "GenZ",
+    "price": 2299,
+    "image": "/img/products/n2.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P011",
+    "title": "GenZ Tee 11",
+    "brand": "GenZ",
+    "price": 2399,
+    "image": "/img/products/n3.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P012",
+    "title": "GenZ Tee 12",
+    "brand": "GenZ",
+    "price": 2499,
+    "image": "/img/products/n4.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P013",
+    "title": "GenZ Tee 13",
+    "brand": "GenZ",
+    "price": 2599,
+    "image": "/img/products/n5.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P014",
+    "title": "GenZ Tee 14",
+    "brand": "GenZ",
+    "price": 2699,
+    "image": "/img/products/n6.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P015",
+    "title": "GenZ Tee 15",
+    "brand": "GenZ",
+    "price": 2799,
+    "image": "/img/products/n7.jpg",
+    "rating": 5
+  },
+  {
+    "id": "P016",
+    "title": "GenZ Tee 16",
+    "brand": "GenZ",
+    "price": 2899,
+    "image": "/img/products/n8.jpg",
+    "rating": 5
+  }
+]
