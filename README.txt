@@ -1,21 +1,23 @@
-GenZ Shop with Razorpay (test-mode)
-----------------------------------
-How it works:
-- Server serves your frontend from /public
-- Clicking any product's cart icon (the round cart button) will create a Razorpay test order
-  and open the Razorpay Checkout popup.
-- After demo payment, you'll be redirected to /payment/success showing payment details.
+I made this project with the help of YouTube and ChatGPT. It is an e-commerce website where people can shop for products and made payment.
 
-Setup:
-1. cd genz-shop-razorpay
-2. npm install
-3. copy .env.example to .env and add your Razorpay test keys:
-   RAZORPAY_KEY_ID=rzp_test_XXXX
-   RAZORPAY_KEY_SECRET=XXXX
-4. npm run dev
-5. Open http://localhost:5000
+# 🚀 GenZ Project  
+A modern, aesthetic & super-clean project made for the next generation of the web.  
 
-Notes:
-- The frontend JS uses a placeholder '<YOUR_RAZORPAY_KEY_ID>' in public/js/razorpay.js.
-  After setting .env, edit public/js/razorpay.js and replace '<YOUR_RAZORPAY_KEY_ID>' with your test key id,
-  or serve a templated page to inject it dynamically (I kept it simple for now).
+## ✨ Features  
+- 🔥 Ultra-clean UI  
+- 🎨 Trendy gradients & smooth animations  
+- ⚡ Fast, responsive, and mobile-friendly  
+- 🧠 Smart, minimal & Gen-Z inspired design  
+- 🛠 Built with modern tech stack
+
+## 📂 Tech Stack  
+- **Frontend:** HTML, CSS, JS  
+- **Backend:** Node.js / Express 
+
+## 🚀 Getting Started  
+Clone the repo:
+
+```bash
+git clone https://github.com/ikamal490/genz-project.git
+cd genz-project
+
